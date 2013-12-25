@@ -1,6 +1,6 @@
 # parseMarkdown.js
 
-A tiny Markdown parser based completely on Mathieu Henri's [mmd.js](https://github.com/p01/mmd.js), with somewhat clarified code, and added syntax (such as underbar emphasis) and features (such as escapable characters). If you consider using it, I recommend first having a look at Mathieu's original source to see if it suits you better.
+A tiny Markdown parser based completely on Mathieu Henri's [mmd.js](https://github.com/p01/mmd.js), with somewhat clarified code, and added syntax (such as underbar emphasis) and features (such as escapable characters). If you consider using it, I recommend first having a look at Mathieu's original source to see if it suits you better. (It's smaller and has semi-colons, if you're into that.)
 
 The feature set is limited—it is merely meant as a small solution ready to be plugged in anywhere as a simple JavaScript function.
 
