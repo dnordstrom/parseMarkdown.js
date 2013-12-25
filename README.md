@@ -7,3 +7,7 @@ If you consider using it, I recommend first having a look at Mathieu's original 
 The feature set is limited—it is merely meant as a small solution ready to be plugged in anywhere as a simple JavaScript function.
 
 For complete Markdown support, I recommend [marked](https://github.com/chjj/marked) (at about 1200 lines of code, while parseMarkdown.js is about 100 lines).
+
+## Usage
+
+`var html = parseMarkdown(markdown) // BOOM`
